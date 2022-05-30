@@ -1,4 +1,6 @@
-# Projects
+# Homepage of Valerio Lyndon
+
+## Projects
 
 ### MyAnimeList Projects
 
@@ -8,7 +10,7 @@
 
 **Soundgasm Improvements:** [GitHub](https://github.com/ValerioLyndon/Soundgasm-Improvements)
 
-# Find Me At
+## Find Me At
 
 - [GitHub](https://github.com/ValerioLyndon)
 - [MyAnimeList](https://myanimelist.net/profile/Valerio_Lyndon)
