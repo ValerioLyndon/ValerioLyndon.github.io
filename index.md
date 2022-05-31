@@ -4,7 +4,8 @@
 
 ### MyAnimeList Projects
 
-- **MyAnimeList List Designs:** [Blog Post](https://myanimelist.net/blog.php?eid=805506) / [GitHub](https://github.com/ValerioLyndon/MAL-Public-List-Designs)
+- **List Designs:** [Blog Post](https://myanimelist.net/blog.php?eid=805506) / [GitHub](https://github.com/ValerioLyndon/MAL-Public-List-Designs)
+- **MyAnimeList-Tools:** [GitHub](https://github.com/ValerioLyndon/MyAnimeList-Tools)
 
 ### Website Tweaks & Redesigns
 
