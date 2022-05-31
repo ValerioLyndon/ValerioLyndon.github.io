@@ -4,11 +4,12 @@
 
 ### MyAnimeList Projects
 
-**MyAnimeList List Designs:** [Blog Post](https://myanimelist.net/blog.php?eid=805506) / [GitHub](https://github.com/ValerioLyndon/MAL-Public-List-Designs)
+- **MyAnimeList List Designs:** [Blog Post](https://myanimelist.net/blog.php?eid=805506) / [GitHub](https://github.com/ValerioLyndon/MAL-Public-List-Designs)
 
 ### Website Tweaks & Redesigns
 
-**Soundgasm Improvements:** [GitHub](https://github.com/ValerioLyndon/Soundgasm-Improvements)
+- **Simplified Fandom Wikis:** [GitHub](https://github.com/ValerioLyndon/Simplified-Fandom-Wikis)
+- **Soundgasm Improvements:** [GitHub](https://github.com/ValerioLyndon/Soundgasm-Improvements)
 
 ## Find Me At
 
